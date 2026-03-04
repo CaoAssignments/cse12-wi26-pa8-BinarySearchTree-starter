@@ -255,13 +255,13 @@ Your task: create `CustomTester.java` and implement tests that can correctly dis
 
 Running the tester on UNIX based systems (including Mac):
 
-* Compile: `javac -cp ../libs/junit-4.13.2.jar:../libs/hamcrest-2.2.jar:. PublicTester.java`
-* Execute: `java -cp ../libs/junit-4.13.2.jar:../libs/hamcrest-2.2.jar:. org.junit.runner.JUnitCore PublicTester`
+* Compile: `javac -cp ../lib/junit-4.13.2.jar:../lib/hamcrest-core-1.3.jar:. PublicTester.java`
+* Execute: `java -cp ../lib/junit-4.13.2.jar:../lib/hamcrest-core-1.3.jar:. org.junit.runner.JUnitCore PublicTester`
 
 Running the tester on Windows systems:
 
-* Compile: `javac -cp ".;..\libs\junit-4.13.2.jar;..\libs\hamcrest-2.2.jar" PublicTester.java`
-* Execute: `java -cp ".;..\libs\junit-4.13.2.jar;..\libs\hamcrest-2.2.jar" org.junit.runner.JUnitCore PublicTester`
+* Compile: `javac -cp ".;..\lib\junit-4.13.2.jar;..\lib\hamcrest-core-1.3.jar" PublicTester.java`
+* Execute: `java -cp ".;..\lib\junit-4.13.2.jar;..\lib\hamcrest-core-1.3.jar" org.junit.runner.JUnitCore PublicTester`
 
 To run the custom tester, replace references to `PublicTester` with `CustomTester` in the above commands. If you would like to compile all files at once, replace `PublicTester.java` with `*.java`.
 
