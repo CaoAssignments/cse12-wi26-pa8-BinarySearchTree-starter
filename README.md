@@ -1,6 +1,6 @@
 # CSE 12 PA8: BST
 
-Due date: Thursday, March 10th @ 11:59 PM PT
+Due date: Tuesday, March 10th @ 11:59 PM PT
 
 There is an FAQ post on Piazza. Please read that post first if you have any questions.
 
@@ -56,7 +56,7 @@ Note: Double-check the output to make sure your selections are accurate, includi
 
 #### Submitting Task 2
 
-Fill out the **PA8 Task 2** form on Gradescope by **Thursday, March 10th @ 11:59 PM PT.**
+Fill out the **PA8 Task 2** form on Gradescope by **Tuesday, March 10th @ 11:59 PM PT.**
 
 ## Task 1: Testing and Implementation of Binary Search Tree [90 points]
 
